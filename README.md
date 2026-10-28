@@ -1,2 +1,2 @@
 Welcome to my github
-Automatic build test
+Automatic build test.
